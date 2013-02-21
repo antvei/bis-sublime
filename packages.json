@@ -4,14 +4,14 @@
     {
       "name": "BIS-MAPPER",
       "description": "Syntax highlighting and utilities",
-      "author": "wickchucked",
-      "homepage": "https://github.com/wickchucked",
-      "last_modified": "2013-02-06 02:30:31",
+      "author": "Ed Winn",
+      "homepage": "https://github.com/bis-mapper",
+      "last_modified": "2013-02-21 01:27:31",
       "platforms": {
         "windows": [
           {
-            "version": "0.0.3",
-            "url": "https://nodeload.github.com/your_github_username/your_repository_name/zip/your_tag_name_here"
+            "version": "0.0.5",
+            "url": "https://github.com/bis-mapper/bis-sublime"
           }
         ]
       }

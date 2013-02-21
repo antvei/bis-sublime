@@ -1,5 +1,0 @@
-{
-  "shell": "true",
-  "selector": "source.bis",
-  "cmd": ["psexec \\\\\\\\arthur2 -s cmd /c dir c:\\\\cool_ice\\\\"]
-}
